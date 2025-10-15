@@ -22,8 +22,8 @@ redirect_from:
 
 Work experience
 ======
-* Alibaba Cloud Computing, Research Intern
-  Aug 2025 – Present
+* Alibaba Cloud Computing, Research Intern  
+  Aug 2025 – Present  
 * ByteDance – Douyin E-commerce, Algorithm Engineer  
   Jun 2023 – May 2024  
 * ByteDance – Douyin E-commerce, Algorithm Intern  
