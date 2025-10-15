@@ -18,7 +18,7 @@ redirect_from:
 * B.S. in Computer Science and Technology, Jilin University, College of Computer Science and Technology  
   Sep 2016 – Jun 2020, Changchun, China
 
-Work experience
+Work Experience
 ======
 * Alibaba Cloud Computing, Research Intern  
   Aug 2025 – Present  
@@ -33,7 +33,7 @@ Honors & Awards
 * Excellent Postgraduate of Academic Year 2021–2022
 * Academic Achievement Scholarship (2022)
 
-Service and leadership
+Service
 ======
 * Reviewer for NeurIPS 2024, ICLR 2025, AISTATS 2025, NeurIPS 2025, AAAI 2026, ICLR 2026
 
