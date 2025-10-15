@@ -25,7 +25,7 @@ Work Experience
 * ByteDance – Douyin E-commerce, Algorithm Intern  
   Jun 2022 – Sep 2022
   
-Honors & Awards
+Awards
 ======
 * National Scholarship for Postgraduates (2022)
 * Excellent Postgraduate of Academic Year 2021–2022
