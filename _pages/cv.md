@@ -34,7 +34,4 @@ Honors & Awards
 Service
 ======
 * Reviewer for NeurIPS 2024, ICLR 2025, AISTATS 2025, NeurIPS 2025, AAAI 2026, ICLR 2026
-
-Contact
-======
-* Email: miaorui24@mails.jlu.edu.cn  
+ 
