@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+#Education
+#======
 * Ph.D. in Artificial Intelligence, Jilin University, School of Artificial Intelligence  
   Research direction: Large Models for Graph Domain  
   Sep 2024 – Present, Changchun, China
