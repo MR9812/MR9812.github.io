@@ -11,7 +11,7 @@ redirect_from:
 
 * Ph.D. in Artificial Intelligence, Jilin University, School of Artificial Intelligence  
   Sep 2024 – Present, Changchun, China
-* M.S. in Artificial Intelligence, Jilin University, School of Artificial Intelligence  
+* M.S. in Computer Science and Technology, Jilin University, School of Artificial Intelligence  
   Sep 2020 – Jun 2023, Changchun, China
 * B.S. in Computer Science and Technology, Jilin University, College of Computer Science and Technology  
   Sep 2016 – Jun 2020, Changchun, China
