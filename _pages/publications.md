@@ -25,6 +25,7 @@ Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang,
 Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, <b>Rui Miao</b>, Xin Juan, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
 
+</ul>
 
 Conference/Journal Papers (* indicates equal contributions)
 ======
@@ -71,5 +72,6 @@ Yintao Yang, <b>Rui Miao</b>, Yili Wang, Xin Wang.<br />
 Zheng Chen, Meng Pang, Zixin Zhao, Shuainan Li, <b>Rui Miao</b>, Yifan Zhang, Xiaoyue Feng, Xin Feng, Yexian Zhang, Meiyu Duan, Lan Huang, Fengfeng Zhou.<br />
 <i>Bioinformatics, 2020.</i><br /></li>
 
+</ul>
 
 
