@@ -15,7 +15,7 @@ author_profile: true
 
 <li>AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias<br />
 Yili Wang, Yaohua Liu, Ninghao Liu, <b>Rui Miao</b>, Ying Wang, Xin Wang.<br />
-<i>IEEE Transactions on Pattern Analysis and Machine Intelligence.</i><br /></li>
+<i>TPAMI, 2025.</i><br /></li>
 
 <li>Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems<br />
 Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, <b>Rui Miao</b>, Yue Tan, Shirui Pan, Xin Wang.<br />
@@ -39,7 +39,7 @@ Yili Wang, Yixin Liu, Xu Shen, Chenyu Li, Kaize Ding, <b>Rui Miao</b>, Ying Wang
 
 <li>Rethinking Independent Cross-Entropy Loss For Graph-Structured Data<br />
 <b>Rui Miao</b>, Kaixiong Zhou, Yili Wang, Ninghao Liu, Ying Wang, Xin Wang.<br />
-<i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
+<i>ICML, 2024.</i><br /></li>
 
 <li>Graph Contrastive Learning with Group Whitening<br />
 Chunhui Zhang, <b>Rui Miao</b>.<br />
