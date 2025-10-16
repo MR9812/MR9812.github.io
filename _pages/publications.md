@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ifU7QsIAAAAJ&hl=zh-CN).
+<!-- You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ifU7QsIAAAAJ&hl=zh-CN). -->
 
 Preprint
 ======
