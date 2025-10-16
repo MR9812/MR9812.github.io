@@ -9,33 +9,37 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ifU7QsIAAAAJ&hl=zh-CN).
 
-## Conference/Journal Papers (* indicates equal contributions)
+## Preprint
 <ul>
 
-<font size="5"><b>Before 2025</b></font><br />
 <li>Blindguard: Safeguarding llm-based multi-agent systems under unknown attacks<br />
 <b>Rui Miao</b>, Yixin Liu, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
-
-<li>AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias<br />
-Yili Wang, Yaohua Liu, Ninghao Liu, <b>Rui Miao</b>, Ying Wang, Xin Wang.<br />
-<i>TPAMI, 2025.</i><br /></li>
-
-<li>Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems<br />
-Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, <b>Rui Miao</b>, Yue Tan, Shirui Pan, Xin Wang.<br />
-<i>EMNLP, 2025.</i><br /></li>
 
 <li>Raising the bar in graph ood generalization: Invariant learning beyond explicit environment modeling<br />
 Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
 
-<li>Mamba-based graph convolutional networks: Tackling over-smoothing with selective state space<br />
-Xin He, Yili Wang, Wenqi Fan, Xu Shen, Xin Juan, <b>Rui Miao</b>, Xin Wang.<br />
-<i>IJCAI, 2025.</i><br /></li>
-
 <li>Graph Defense Diffusion Model<br />
 Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, <b>Rui Miao</b>, Xin Juan, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
+
+
+## Conference/Journal Papers (* indicates equal contributions)
+<ul>
+
+<font size="5"><b>Before 2025</b></font><br />
+<li>Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems<br />
+Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, <b>Rui Miao</b>, Yue Tan, Shirui Pan, Xin Wang.<br />
+<i>EMNLP, 2025.</i><br /></li>
+
+<li>AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias<br />
+Yili Wang, Yaohua Liu, Ninghao Liu, <b>Rui Miao</b>, Ying Wang, Xin Wang.<br />
+<i>TPAMI, 2025.</i><br /></li>
+
+<li>Mamba-based graph convolutional networks: Tackling over-smoothing with selective state space<br />
+Xin He, Yili Wang, Wenqi Fan, Xu Shen, Xin Juan, <b>Rui Miao</b>, Xin Wang.<br />
+<i>IJCAI, 2025.</i><br /></li>
 
 <li>Unifying unsupervised graph-level anomaly detection and out-of-distribution detection: A benchmark<br />
 Yili Wang, Yixin Liu, Xu Shen, Chenyu Li, Kaize Ding, <b>Rui Miao</b>, Ying Wang, Shirui Pan, Xin Wang.<br />
