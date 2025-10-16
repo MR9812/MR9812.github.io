@@ -1,8 +1,10 @@
 ---
-layout: archive
-# title: "Publications"
-permalink: /publications/
+permalink: /
+title: "Publications"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## Conference/Journal Papers (* indicates equal contributions)
