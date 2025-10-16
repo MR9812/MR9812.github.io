@@ -3,8 +3,8 @@ permalink: /
 title: "Publications"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /publications/
+  - /publications.html
 ---
 
 <!-- You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ifU7QsIAAAAJ&hl=zh-CN). -->
