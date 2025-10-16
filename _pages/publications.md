@@ -9,7 +9,8 @@ redirect_from:
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=ifU7QsIAAAAJ&hl=zh-CN).
 
-## Preprint
+Preprint
+======
 <ul>
 
 <li>Blindguard: Safeguarding llm-based multi-agent systems under unknown attacks<br />
@@ -25,7 +26,8 @@ Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, <b>Rui Miao</b>, Xin Juan, Xin Wang.<
 <i>Arxiv, 2025.</i><br /></li>
 
 
-## Conference/Journal Papers (* indicates equal contributions)
+Conference/Journal Papers (* indicates equal contributions)
+======
 <ul>
 
 <font size="5"><b>Before 2025</b></font><br />
