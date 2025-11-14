@@ -17,4 +17,4 @@ News
 
 Contact
 ======
-* Email: ruimiao20@mails.jlu.edu.cn
+* Email: miaorui24@mails.jlu.edu.cn
