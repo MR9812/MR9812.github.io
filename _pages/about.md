@@ -13,6 +13,8 @@ My research interests center on developing efficient, trustworthy, and applicati
 
 News
 ======
+**Nov. 2025:** One co-author paper on Graph Diffusion Model accepted by KDD 2026.
+
 **Nov. 2025:** One co-author paper on Graph Contrastive Learning accepted by Pattern Recognition.
 
 **Sep. 2025:** One co-author paper on Multi-agent Communication Topologies accepted by EMNLP 2025.
