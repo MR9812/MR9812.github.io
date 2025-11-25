@@ -32,6 +32,14 @@ Conference/Journal Papers (* indicates equal contributions)
 <ul>
 
 <font size="5"><b>Before 2025</b></font><br />
+<li>Graph Defense Diffusion Model<br />
+Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, <b>Rui Miao</b>, Xin Juan, Xin Wang.<br />
+<i>KDD, 2026.</i><br /></li>
+
+<li>GCL-GroW: Graph Contrastive Learning via Group Whitening<br />
+Chunhui Zhang, <b>Rui Miao</b>, Lizhong Ding, Pengqi Li, Yuhan Guo, Xingcan Li, Ye Yuan, Guoren Wang.<br />
+<i>Pattern Recognition, 2025.</i><br /></li>
+
 <li>Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems<br />
 Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, <b>Rui Miao</b>, Yue Tan, Shirui Pan, Xin Wang.<br />
 <i>EMNLP, 2025.</i><br /></li>
