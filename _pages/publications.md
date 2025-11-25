@@ -21,10 +21,6 @@ Preprint
 Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
 
-<li>Graph Defense Diffusion Model<br />
-Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, <b>Rui Miao</b>, Xin Juan, Xin Wang.<br />
-<i>Arxiv, 2025.</i><br /></li>
-
 </ul>
 
 Conference/Journal Papers (* indicates equal contributions)
