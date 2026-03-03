@@ -26,8 +26,13 @@ Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang,
 Conference/Journal Papers (* indicates equal contributions)
 ======
 <ul>
+<font size="5"><b>2026</b></font><br />
+<li>Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation<br />
+Kaiyuan Liu, Shaotian Yan, Rui Miao, Bing Wang, Chen Shen, Jun Zhang, Jieping Ye.
+<br />
+<i>ICLR, 2026.</i><br /></li>
 
-<font size="5"><b>Before 2025</b></font><br />
+<font size="5"><b>Before 2026</b></font><br />
 <li>Graph Defense Diffusion Model<br />
 Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, <b>Rui Miao</b>, Xin Juan, Xin Wang.<br />
 <i>KDD, 2026.</i><br /></li>
