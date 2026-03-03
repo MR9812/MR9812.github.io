@@ -21,14 +21,18 @@ Preprint
 Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
 
+<li>Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection<br />
+Junjun Pan, Yixin Liu, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
+<i>Arxiv, 2026.</i><br /></li>
+
 </ul>
 
 Conference/Journal Papers (* indicates equal contributions)
 ======
 <ul>
-<font size="5"><b>2026</b></font><br />
+<font size="10"><b>2026</b></font><br />
 <li>Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation<br />
-Kaiyuan Liu, Shaotian Yan, Rui Miao, Bing Wang, Chen Shen, Jun Zhang, Jieping Ye.
+Kaiyuan Liu, Shaotian Yan, <b>Rui Miao</b>, Bing Wang, Chen Shen, Jun Zhang, Jieping Ye.
 <br />
 <i>ICLR, 2026.</i><br /></li>
 
