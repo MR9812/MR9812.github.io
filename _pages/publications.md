@@ -42,7 +42,7 @@ Kaiyuan Liu, Shaotian Yan, <b>Rui Miao</b>, Bing Wang, Chen Shen, Jun Zhang, Jie
 Xin He, Wenqi Fan, Yili Wang, Chengyi Liu, <b>Rui Miao</b>, Xin Juan, Xin Wang.<br />
 <i>KDD, 2026.</i><br /></li>
 
-<font size="7"><b>2025</b></font><br />
+<font size="6"><b>2025</b></font><br />
 
 <li>GCL-GroW: Graph Contrastive Learning via Group Whitening<br />
 Chunhui Zhang, <b>Rui Miao</b>, Lizhong Ding, Pengqi Li, Yuhan Guo, Xingcan Li, Ye Yuan, Guoren Wang.<br />
@@ -64,7 +64,7 @@ Xin He, Yili Wang, Wenqi Fan, Xu Shen, Xin Juan, <b>Rui Miao</b>, Xin Wang.<br /
 Yili Wang, Yixin Liu, Xu Shen, Chenyu Li, Kaize Ding, <b>Rui Miao</b>, Ying Wang, Shirui Pan, Xin Wang.<br />
 <i>ICLR, 2025.</i><br /></li>
 
-<font size="7"><b>Before 2025</b></font><br />
+<font size="6"><b>Before 2025</b></font><br />
 
 <li>Rethinking Independent Cross-Entropy Loss For Graph-Structured Data<br />
 <b>Rui Miao</b>, Kaixiong Zhou, Yili Wang, Ninghao Liu, Ying Wang, Xin Wang.<br />
