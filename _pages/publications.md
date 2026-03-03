@@ -30,7 +30,9 @@ Junjun Pan, Yixin Liu, <b>Rui Miao</b>, Kaize Ding, Yu Zheng, Quoc Viet Hung Ngu
 Conference/Journal Papers (* indicates equal contributions)
 ======
 <ul>
+
 <font size="6"><b>2026</b></font><br />
+
 <li>Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation<br />
 Kaiyuan Liu, Shaotian Yan, <b>Rui Miao</b>, Bing Wang, Chen Shen, Jun Zhang, Jieping Ye.
 <br />
