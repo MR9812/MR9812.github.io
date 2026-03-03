@@ -22,7 +22,7 @@ Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang,
 <i>Arxiv, 2025.</i><br /></li>
 
 <li>Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection<br />
-Junjun Pan, Yixin Liu, Rui Miao, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
+Junjun Pan, Yixin Liu, <b>Rui Miao</b>, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
 <i>Arxiv, 2026.</i><br /></li>
 
 </ul>
