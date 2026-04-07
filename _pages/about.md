@@ -13,15 +13,19 @@ My research interests center on the safety, interpretability, and efficiency of 
 
 News
 ======
-**Jan. 2026:** One co-author paper on LLM distillation accepted by ICLR 2026.
+**2026/04:** Two papers on Multi-agent System Safeguarding accepted by ACL 2026, including one as first author and one as co-author.
 
-**Nov. 2025:** One co-author paper on Graph Diffusion Model accepted by KDD 2026.
+**2026/04:** One co-author paper on LLM distillation accepted by ACL 2026.
 
-**Nov. 2025:** One co-author paper on Graph Contrastive Learning accepted by Pattern Recognition.
+**2026/01:** One co-author paper on LLM distillation accepted by ICLR 2026.
 
-**Sep. 2025:** One co-author paper on Multi-agent Communication Topologies accepted by EMNLP 2025.
+**2025/11:** One co-author paper on Graph Diffusion Model accepted by KDD 2026.
 
-**Aug. 2025:** Begin my internship at Alibaba Cloud Computing!
+**2025/11:** One co-author paper on Graph Contrastive Learning accepted by Pattern Recognition.
+
+**2025/09:** One co-author paper on Multi-agent Communication Topologies accepted by EMNLP 2025.
+
+**2025/08:** Begin my internship at Alibaba Cloud Computing!
 
 Contact
 ======
