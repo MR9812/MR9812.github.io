@@ -13,17 +13,9 @@ Preprint
 ======
 <ul>
 
-<li>Blindguard: Safeguarding llm-based multi-agent systems under unknown attacks<br />
-<b>Rui Miao</b>, Yixin Liu, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang.<br />
-<i>Arxiv, 2025.</i><br /></li>
-
 <li>Raising the bar in graph ood generalization: Invariant learning beyond explicit environment modeling<br />
 Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
-
-<li>Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection<br />
-Junjun Pan, Yixin Liu, <b>Rui Miao</b>, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
-<i>Arxiv, 2026.</i><br /></li>
 
 </ul>
 
@@ -32,6 +24,18 @@ Conference/Journal Papers (* indicates equal contributions)
 <ul>
 
 <font size="6"><b>2026</b></font><br />
+
+<li>Blindguard: Safeguarding llm-based multi-agent systems under unknown attacks<br />
+<b>Rui Miao</b>, Yixin Liu, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang.<br />
+<i>ACL, 2026 (Main).</i><br /></li>
+
+<li>Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection<br />
+Junjun Pan, Yixin Liu, <b>Rui Miao</b>, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
+<i>ACL, 2026 (Main).</i><br /></li>
+
+<li>Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection<br />
+Junjun Pan, Yixin Liu, <b>Rui Miao</b>, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
+<i>ACL, 2026 (Findings).</i><br /></li>
 
 <li>Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation<br />
 Kaiyuan Liu, Shaotian Yan, <b>Rui Miao</b>, Bing Wang, Chen Shen, Jun Zhang, Jieping Ye.
@@ -50,7 +54,7 @@ Chunhui Zhang, <b>Rui Miao</b>, Lizhong Ding, Pengqi Li, Yuhan Guo, Xingcan Li, 
 
 <li>Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems<br />
 Xu Shen, Yixin Liu, Yiwei Dai, Yili Wang, <b>Rui Miao</b>, Yue Tan, Shirui Pan, Xin Wang.<br />
-<i>EMNLP, 2025.</i><br /></li>
+<i>EMNLP, 2025 (main).</i><br /></li>
 
 <li>AdaGCL+: An Adaptive Subgraph Contrastive Learning Towards Tackling Topological Bias<br />
 Yili Wang, Yaohua Liu, Ninghao Liu, <b>Rui Miao</b>, Ying Wang, Xin Wang.<br />
