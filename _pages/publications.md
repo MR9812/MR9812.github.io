@@ -33,8 +33,8 @@ Conference/Journal Papers (* indicates equal contributions)
 Junjun Pan, Yixin Liu, <b>Rui Miao</b>, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
 <i>ACL, 2026 (Main).</i><br /></li>
 
-<li>Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection<br />
-Junjun Pan, Yixin Liu, <b>Rui Miao</b>, Kaize Ding, Yu Zheng, Quoc Viet Hung Nguyen, Alan Wee-Chung Liew, Shirui Pan.<br />
+<li>On the Step Length Confounding in LLM Reasoning Data Selection<br />
+Bing Wang, <b>Rui Miao</b>, Chen Shen, Shaotian Yan, kaiyuan liu, Ximing Li, Xiaosong Yuan, Sinan Fan, Jun Zhang, Jieping Ye.<br />
 <i>ACL, 2026 (Findings).</i><br /></li>
 
 <li>Where Did This Sentence Come From? Tracing Provenance in LLM Reasoning Distillation<br />
