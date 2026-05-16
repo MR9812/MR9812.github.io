@@ -25,6 +25,10 @@ Conference/Journal Papers (* indicates equal contributions)
 
 <font size="6"><b>2026</b></font><br />
 
+<li>Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection<br />
+Bing Wang, <b>Rui Miao</b>, Ximing Li, Chen Shen, Shaotian Yan, Changchun Li, kaiyuan liu, Xiaosong Yuan, Jieping Ye.<br />
+<i>KDD, 2026.</i><br /></li>
+
 <li>Blindguard: Safeguarding llm-based multi-agent systems under unknown attacks<br />
 <b>Rui Miao</b>, Yixin Liu, Yili Wang, Xu Shen, Yue Tan, Yiwei Dai, Shirui Pan, Xin Wang.<br />
 <i>ACL, 2026 (Main).</i><br /></li>
