@@ -17,6 +17,14 @@ Preprint
 Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang, Xin Wang.<br />
 <i>Arxiv, 2025.</i><br /></li>
 
+<li>Backtracking When It Strays: Mitigating Dual Exposure Biases in LLM Reasoning Distillation<br />
+Bing Wang, Shaotian Yan, Chen Shen, kaiyuan liu, Sinan Fan, Ximing Li,<b>Rui Miao</b>, Xiaosong Yuan, Zhanming Shen, Jieping Ye.<br />
+<i>Arxiv, 2026.</i><br /></li>
+
+<li>Detecting Unfaithful Chain-of-Thought via Circuit-Guided Internal-External Discrepancy<br />
+Xu Shen, Zhen Tan, Song Wang, Pingjun Hong, <b>Rui Miao</b>, Xin Wang, Tianlong Chen.<br />
+<i>Arxiv, 2026.</i><br /></li>
+
 </ul>
 
 Conference/Journal Papers (* indicates equal contributions)
