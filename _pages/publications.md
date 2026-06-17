@@ -13,10 +13,6 @@ Preprint
 ======
 <ul>
 
-<li>Raising the bar in graph ood generalization: Invariant learning beyond explicit environment modeling<br />
-Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang, Xin Wang.<br />
-<i>Arxiv, 2025.</i><br /></li>
-
 <li>Backtracking When It Strays: Mitigating Dual Exposure Biases in LLM Reasoning Distillation<br />
 Bing Wang, Shaotian Yan, Chen Shen, kaiyuan liu, Sinan Fan, Ximing Li, <b>Rui Miao</b>, Xiaosong Yuan, Zhanming Shen, Jieping Ye.<br />
 <i>Arxiv, 2026.</i><br /></li>
@@ -32,6 +28,10 @@ Conference/Journal Papers (* indicates equal contributions)
 <ul>
 
 <font size="6"><b>2026</b></font><br />
+
+<li>Raising the bar in graph ood generalization: Invariant learning beyond explicit environment modeling<br />
+Xu Shen, Yixin Liu, Yili Wang, <b>Rui Miao</b>, Yiwei Dai, Shirui Pan, Yi Chang, Xin Wang.<br />
+<i>TPAMI, 2026.</i><br /></li>
 
 <li>Are Rationales Necessary and Sufficient? Tuning LLMs for Explainable Misinformation Detection<br />
 Bing Wang, <b>Rui Miao</b>, Ximing Li, Chen Shen, Shaotian Yan, Changchun Li, kaiyuan liu, Xiaosong Yuan, Jieping Ye.<br />
