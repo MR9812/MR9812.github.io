@@ -13,6 +13,8 @@ My research interests center on the safety, interpretability, and efficiency of 
 
 News
 ======
+**2026.06:** One co-author paper on Graph OOD generalization accepted by TPAMI.
+
 **2026.05:** One co-author paper on Misinformation Detection accepted by KDD 2026.
 
 **2026.04:** Three papers accepted at ACL 2026, including one first-author paper on Multi-agent System Safeguarding and two co-authored papers on Multi-agent System Safeguarding and LLM Distillation.
