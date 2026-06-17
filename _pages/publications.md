@@ -21,6 +21,10 @@ Bing Wang, Shaotian Yan, Chen Shen, kaiyuan liu, Sinan Fan, Ximing Li, <b>Rui Mi
 Xu Shen, Zhen Tan, Song Wang, Pingjun Hong, <b>Rui Miao</b>, Xin Wang, Tianlong Chen.<br />
 <i>Arxiv, 2026.</i><br /></li>
 
+<li>SAIGuard: Communication-State Simulation for Proactive Defense of LLM Multi-Agent Systems<br />
+Ruxue Shi, Yili Wang, Mengnan Du, Qinggang Zhang, <b>Rui Miao</b>, Yixin Liu, Xin Wang.<br />
+<i>Arxiv, 2026.</i><br /></li>
+
 </ul>
 
 Conference/Journal Papers (* indicates equal contributions)
